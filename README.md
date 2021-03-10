@@ -1,2 +1,2 @@
-# Angular-9
-Usando o Angular 9
+# Angular 11
+Usando o Angular 11
